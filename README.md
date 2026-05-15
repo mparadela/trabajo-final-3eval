@@ -1,4 +1,4 @@
-## H2 **PROYECTO FINAL INTEGRADOR — DWEC 3ª EVALUACIÓN**
+## **PROYECTO FINAL INTEGRADOR — DWEC 3ª EVALUACIÓN**
 
 Se trata de programar una agenda web interactiva que carga automáticamente los festivos de España desde una API pública y permite gestionar tus propios eventos. Todo funciona en el navegador, sin servidor, usando JavaScript puro.
 
